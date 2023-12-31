@@ -1,0 +1,7 @@
+{
+  "name": "l02-assignment",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
